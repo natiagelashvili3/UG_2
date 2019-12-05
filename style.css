@@ -1,0 +1,125 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.header{
+	height: 100px;
+	background: #b000ff;
+	padding-top: 20px;
+}
+.header-title{
+	text-align: center;
+	color: white;
+}
+.header-text{
+	text-align: center;
+	color: white;
+}
+.box-1{
+	display: inline-block;
+	width: 29.8%;
+	height: 200px;
+	background: blue;
+	margin-top: 5px;
+}
+.box-2{
+	display: inline-block;
+	width: 69.8%;
+	height: 200px;
+	background: red;
+	margin-top: 5px;
+}
+.box-3{
+	display: inline-block;
+	width: 69.8%;
+	height: 200px;
+	background: blue;
+	margin-top: 5px;
+}
+.box-4{
+	display: inline-block;
+	width: 29.8%;
+	height: 200px;
+	background: red;
+	margin-top: 5px;
+}
+.box-1-title{
+	text-align: center;
+	margin-top: 80px;
+}
+.box-2-title{
+	text-align: center;
+	margin-top: 80px;
+}
+.box-3-title{
+	text-align: center;
+	margin-top: 80px;
+}
+.box-4-title{
+	text-align: center;
+	margin-top: 80px;
+}
+.image-container{
+	text-align: center;
+	margin-top: 5px;
+	background: #84d7c3;
+	padding: 10px;
+}
+.image-container img{
+	width: 300px;
+	margin-top: 10px;
+}
+.list-container{
+	text-align: center;
+}
+.ul-list{
+	width: 200px;
+	background: lightgray;
+	display: inline-block;
+	text-align: center;
+	margin-top: 5px;
+}
+.ul-list ul{
+	display: inline-block;
+}
+.ol-list{
+	width: 200px;
+	background: lightgray;	
+	display: inline-block;
+	text-align: center;
+	margin-top: 1px;
+}
+.ol-list ol{
+	display: inline-block;
+}
+.box{
+	position: relative;
+	width: 50%;
+	background: gray;
+	height: 400px;
+	margin: 5px auto;
+}
+.circle{
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background: red;
+}
+.circle-1{
+	top: 190px;
+	left: 530px;
+}
+.circle-2{
+	top: 260px;
+	left: 270px;
+}
+.circle-3{
+	top: 150px;
+	left: 90px;
+}
+.footer{
+	height: 100px;
+	background: #5dbc87;
+	text-align: center;
+}
